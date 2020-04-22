@@ -8,12 +8,6 @@ Menghitung galat dan hampiran dari operasi trigonometri yang terdiri dari
 
 dengan PyLab (aplikasi alternatif matlab di linux)
 
-## Identitas Mahasiswa
-
-* Nama  : Ahmad Waris Al H.
-* NIM   : 1810652012
-* Kelas : TI-Sore
-
 ## Soal
 
 Hitunglah berapa galat maksimum dan galat sesungguhnya dari operasi matematika berikut:
